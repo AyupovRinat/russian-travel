@@ -1,0 +1,13 @@
+.header__list {
+  margin: 17px 0 0;
+  padding: 0;
+  display: flex;
+  list-style-type: none;
+  gap: 18px;
+}
+
+@media screen and (max-width: 480px) {
+  .header__list {
+    margin: 14px 0 0;
+  }
+}
