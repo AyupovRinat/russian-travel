@@ -14,11 +14,11 @@
     font-size: 7vw;
     line-height: 7.5vw;
   }
- }
+}
+
 @media screen and (max-width: 425px) {
   .intro__title {
-    margin: 0 0 40px;
     font-size: 32px;
     line-height: 35px;
   }
- }
+}
